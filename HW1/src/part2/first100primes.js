@@ -1,7 +1,6 @@
 // http://en.wikipedia.org/wiki/Sieve_of_Atkin
 // https://github.com/AaronFoltz/JavaScript-Sieves.git
 
-//print result array in the correct format
 
 function primes(limit){
     var results = [2,3,5];
@@ -56,15 +55,16 @@ function primes(limit){
     return results;
 }
 
-function print(result) {
-    var s = result[0];
-    for (var i=1;i<result.length;i++)
-    {
-        s = s + "," + result[i];
-    }
 
-    console.log(s);
+function writefile(s) {
+    var fs = require('fs');
+    var outfile = "prime.txt";
+    fs.writeFileSync(outfile, s);
 }
 
-var result = primes(100);
-print(result);
+var result = primes(545);
+//var s = createoutput(result);
+
+writefile(result.toString() + ",");
+console.log(result.toString() + ",");
+//console.log(result.length);
