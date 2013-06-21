@@ -7,3 +7,5 @@ http://eloquentjavascript.net/
 ####Node.js:
 
 http://www.nodebeginner.org/
+
+https://devcenter.heroku.com/articles/nodejs
