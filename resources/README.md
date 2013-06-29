@@ -9,3 +9,5 @@ http://eloquentjavascript.net/
 http://www.nodebeginner.org/
 
 https://devcenter.heroku.com/articles/nodejs
+
+http://book.mixu.net/
