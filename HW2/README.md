@@ -1,4 +1,4 @@
-### Node libraries
+###Node libraries
 
 [restler](https://github.com/danwrong/restler) REST client library for node.js.
 
@@ -6,7 +6,7 @@
 
 [accounting](https://github.com/josscrowcroft/accounting.js) number, money and currency parsing/formatting library 
 
-### Closure in JavaScript
+###Closure in JavaScript
 
 http://jondavidjohn.com/blog/2011/09/javascript-event-handler-persistance-with-closures
 http://stackoverflow.com/questions/111102/how-do-javascript-closures-work
@@ -37,3 +37,12 @@ element.onclick = (function() {
 })();
 
 ```
+
+###require.main == module
+What does the if(require.main == module) conditional do?
+
+http://stackoverflow.com/questions/4981891/node-js-equivalent-of-pythons-if-name-main
+
+http://book.mixu.net/ch8.html
+
+###
