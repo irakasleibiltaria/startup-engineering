@@ -6,6 +6,7 @@ Coursera:
 
 [lecture_slides_lecture2-interactive-start.pdf](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture2-interactive-start.pdf)
 
+[Linux and Server-Side Javascript (SSJS)](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
 
 Drive:
 
@@ -14,3 +15,5 @@ Drive:
 [lecture1-v2-introduction.pdf](https://docs.google.com/file/d/0B3GawKz4dDR7Q09fRVh4R0tuYmc/edit?usp=sharing)
 
 [lecture_slides_lecture2-interactive-start.pdf](https://docs.google.com/file/d/0B3GawKz4dDR7NHMxVjNKUVJQcnc/edit?usp=sharing)
+
+[Linux and Server-Side Javascript (SSJS)](https://docs.google.com/file/d/0B3GawKz4dDR7UWp2Y011Qm82Tjg/edit?usp=sharing)
