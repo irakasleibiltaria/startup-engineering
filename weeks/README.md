@@ -32,6 +32,29 @@ Materials. Unlike most Coursera courses, we've organized the class chronological
 * Multiple Choice Quizzes (Graded)
 * Surveys (Ungraded) (and Survey 1, which is an external form due to its complexity)
 
+###Week 2: Linux, Command Line, SSJS, Emacs, Git, Dotfiles
+
+Here's the curriculum for week 2. This page will be updated as new materials are added.
+
+* Lecture 3: Linux and Server-Side Javascript (video, pdf)
+* HW2: Released June 26, 2013 at 5pm PT; due July 3, 2013 at 11:59pm PT
+* Lecture 4A: Linux Command Line (video, pdf)
+* Lecture 4B: Development Environment (video, pdf)
+
+Please read the following material to supplement the lectures.
+
+* Linux Background
+ * [In the Beginning there was the Command Line](http://garote.bdmonkeys.net/commandline/index.html)
+ * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/)
+* Command Line
+ * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/)
+ * [http://linuxcommand.org/](http://linuxcommand.org/)
+ * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+ * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)
+ 
+
+
+
 
 
 
