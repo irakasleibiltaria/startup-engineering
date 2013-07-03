@@ -10,6 +10,8 @@ Coursera:
 
 [The Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
 
+[Linux Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
+
 Drive:
 
 [lecture0-v3-logistics.pdf](https://docs.google.com/file/d/0B3GawKz4dDR7SXJVMmtmQW1zMTA/edit?usp=sharing)
@@ -21,3 +23,5 @@ Drive:
 [Linux and Server-Side Javascript (SSJS)](https://docs.google.com/file/d/0B3GawKz4dDR7UWp2Y011Qm82Tjg/edit?usp=sharing)
 
 [The Linux Command Line](https://docs.google.com/file/d/0B3GawKz4dDR7a0lKRkVJbnNvTmc/edit?usp=sharing)
+
+[Linux Development Environment](https://docs.google.com/file/d/0B3GawKz4dDR7LUVsZmVEc3FMTGs/edit?usp=sharing)
