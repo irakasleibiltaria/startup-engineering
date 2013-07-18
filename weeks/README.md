@@ -81,14 +81,14 @@ Here's the curriculum for week 4. Links will go live as materials are uploaded. 
 * Lecture 8: Mobile: HTTP, User Agents, and Responsive Design (video, pdf)
 Here are some useful links:
 * Deployment and DNS
- * Git Branching: 1, 2, 3
- * Dev/staging/production: concepts and managing dev/staging/production with git branches
- * Videos on the Domain Name System (DNS): 1, 2
+ * [Git Branching](http://git-scm.com/book/ch3-2.html): [1](http://www.atlassian.com/git/tutorial/git-branches#!branch), [2](http://gitref.org/branching/), [3](http://betterexplained.com/articles/aha-moments-when-learning-git/)
+ * Dev/staging/production: [concepts](http://programmers.stackexchange.com/a/117985) and [managing dev/staging/production with git branches](http://nvie.com/posts/a-successful-git-branching-model/)
+ * Videos on the Domain Name System (DNS): [1](http://www.youtube.com/watch?v=2ZUxoi7YNgs), [2](http://www.youtube.com/watch?v=72snZctFFtA)
 * Mobile
- * Bootstrap Documentation
- * Mobile is Eating the World
- * Internet Trends
- * Responsive Design and the concept of Media Queries
- * Responsive Design Examples
+ * [Bootstrap Documentation](http://twitter.github.io/bootstrap/getting-started.html)
+ * [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
+ * [Internet Trends](http://www.kpcb.com/insights/2013-internet-trends)
+ * [Responsive Design](http://mashable.com/2012/12/11/responsive-web-design/) and the concept of [Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+ * [Responsive Design Examples](http://mediaqueri.es/)
 
 
