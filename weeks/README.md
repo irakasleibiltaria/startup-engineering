@@ -60,8 +60,18 @@ Here's the curriculum for week 3. This page will be updated as new materials are
 * Lecture 5: Market Research, Wireframing, Design (video, pdf)
 * Lecture 6: Introduction to HTML/CSS/JS (video, pdf)
 
+You will find the following links helpful.
 
-
+* Market Research
+ * [Facebook Census](http://facebook.com/advertising)
+ * [Google Keyword Planner](http://adwords.google.com/ko/KeywordPlanner)
+ * [SEC Filings](http://www.sec.gov/edgar.shtml)
+* Wireframing
+ * [Omnigraffle Pro](http://www.omnigroup.com/products/omnigraffle/) (see [Konigi Wireframes](http://konigi.com/tools/omnigraffle-wireframe-stencils) for ideas)
+ * [POP](http://popapp.in/)
+ * [Lucidchart](https://www.lucidchart.com/)
+ * [Jetstrap](http://jetstrap.com/)
+ 
 
 
 
