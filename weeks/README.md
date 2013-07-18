@@ -52,7 +52,13 @@ Please read the following material to supplement the lectures.
  * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
  * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)
  
+###Week 3: Market Research, Wireframing, Design. HTML/CSS/JS.
 
+Here's the curriculum for week 3. This page will be updated as new materials are added.
+
+* HW3: Released July 3, 2013 at ~5pm PT; due July 11, 2013 at 11:59pm PT
+* Lecture 5: Market Research, Wireframing, Design (video, pdf)
+* Lecture 6: Introduction to HTML/CSS/JS (video, pdf)
 
 
 
