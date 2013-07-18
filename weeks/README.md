@@ -72,7 +72,7 @@ You will find the following links helpful.
  * [Lucidchart](https://www.lucidchart.com/)
  * [Jetstrap](http://jetstrap.com/)
  
-Week 4: Deployment, DNS, and Custom Domains. Mobile: HTTP, User Agents, Responsive Design.
+###Week 4: Deployment, DNS, and Custom Domains. Mobile: HTTP, User Agents, Responsive Design.
 
 Here's the curriculum for week 4. Links will go live as materials are uploaded. We've moved some of the week 5 content into this week and vice versa.
 
