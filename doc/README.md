@@ -12,6 +12,10 @@ Coursera:
 
 [Linux Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
 
+[Market Research, Wireframing, and Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+[An introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
+
 Drive:
 
 [lecture0-v3-logistics.pdf](https://docs.google.com/file/d/0B3GawKz4dDR7SXJVMmtmQW1zMTA/edit?usp=sharing)
@@ -25,3 +29,8 @@ Drive:
 [The Linux Command Line](https://docs.google.com/file/d/0B3GawKz4dDR7a0lKRkVJbnNvTmc/edit?usp=sharing)
 
 [Linux Development Environment](https://docs.google.com/file/d/0B3GawKz4dDR7LUVsZmVEc3FMTGs/edit?usp=sharing)
+
+[Market Research, Wireframing, and Design](https://docs.google.com/file/d/0B3GawKz4dDR7RmJmZUNkb1JJS3M/edit?usp=sharing)
+
+[An introduction to HTML/CSS/JS](https://docs.google.com/file/d/0B3GawKz4dDR7ZV9NTFdXVmVYZE0/edit?usp=sharing)
+
