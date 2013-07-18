@@ -72,6 +72,23 @@ You will find the following links helpful.
  * [Lucidchart](https://www.lucidchart.com/)
  * [Jetstrap](http://jetstrap.com/)
  
+Week 4: Deployment, DNS, and Custom Domains. Mobile: HTTP, User Agents, Responsive Design.
 
+Here's the curriculum for week 4. Links will go live as materials are uploaded. We've moved some of the week 5 content into this week and vice versa.
+
+* HW4: Released July 12, 2013; due July 19, 2013 at 11:59pm PT
+* Lecture 7: Deployment, DNS, and Custom Domains (video, pdf)
+* Lecture 8: Mobile: HTTP, User Agents, and Responsive Design (video, pdf)
+Here are some useful links:
+* Deployment and DNS
+ * Git Branching: 1, 2, 3
+ * Dev/staging/production: concepts and managing dev/staging/production with git branches
+ * Videos on the Domain Name System (DNS): 1, 2
+* Mobile
+ * Bootstrap Documentation
+ * Mobile is Eating the World
+ * Internet Trends
+ * Responsive Design and the concept of Media Queries
+ * Responsive Design Examples
 
 
