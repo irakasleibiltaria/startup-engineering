@@ -1,5 +1,9 @@
 ###Homework 4
 
+https://class.coursera.org/startup-001/assignment/view?assignment_id=10
+
+https://docs.google.com/file/d/0B3GawKz4dDR7d1VKRkN1ZVVGX1U/edit?usp=sharing
+
 ####Set up an EC2 Instance which allows instant previews:
 
 * Open 8080 port in AWS EC2 Instance.
