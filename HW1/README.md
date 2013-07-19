@@ -32,6 +32,10 @@ http://thawing-headland-3276.herokuapp.com
 
 ####HW1 Programming: Basic Server-Side Javascript with node.js
 
+https://class.coursera.org/startup-001/assignment/view?assignment_id=5
+
+https://docs.google.com/file/d/0B3GawKz4dDR7d1VKRkN1ZVVGX1U/edit?usp=sharing
+
 Install node.js
 ```bash
 sudo apt-get update
