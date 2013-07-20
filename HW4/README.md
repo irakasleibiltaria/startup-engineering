@@ -19,7 +19,13 @@ https://spark-public.s3.amazonaws.com/startup/images/part1-instructions.pdf
 
 https://docs.google.com/file/d/0B3GawKz4dDR7WXpLMi1OblhHeVU/edit?usp=sharing
 
-bootstrap: http://twitter.github.io/bootstrap/scaffolding.html#responsive
+* http://twitter.github.io/bootstrap/scaffolding.html#responsive
+* http://blogs.endjin.com/2013/04/tips-forimplementing-responsive-designs-usingbootstrap
+* http://stackoverflow.com/a/12270322
+* http://noizwaves.github.io/bootstrap-social-buttons/
+```$ wget https://raw.github.com/noizwaves/bootstrap-social-buttons/master/social-buttons.css```
+* http://www.bootstrapcdn.com/#tab_fontawesome
+```$ wget netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css```
 
 
 
