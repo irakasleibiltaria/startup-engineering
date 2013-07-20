@@ -12,4 +12,10 @@ https://docs.google.com/file/d/0B3GawKz4dDR7d1VKRkN1ZVVGX1U/edit?usp=sharing
 var port = process.env.PORT || 8080;
 ```
 * To preview how your website will look with a mobile client is by installing Chrome's User [Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) and its [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal?hl=en) tools. 
-* 
+
+####Part 1: Add CSS styles and enable responsive design via Twitter Bootstrap
+
+https://spark-public.s3.amazonaws.com/startup/images/part1-instructions.pdf
+
+https://docs.google.com/file/d/0B3GawKz4dDR7WXpLMi1OblhHeVU/edit?usp=sharing
+
