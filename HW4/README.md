@@ -19,3 +19,7 @@ https://spark-public.s3.amazonaws.com/startup/images/part1-instructions.pdf
 
 https://docs.google.com/file/d/0B3GawKz4dDR7WXpLMi1OblhHeVU/edit?usp=sharing
 
+bootstrap: http://twitter.github.io/bootstrap/scaffolding.html#responsive
+
+
+
