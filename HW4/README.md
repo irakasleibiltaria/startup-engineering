@@ -46,4 +46,4 @@ fonts:
 
 Solution 2/1: https://github.com/irakasleibiltaria/bitstarter/tree/bd779407183d95450642908ca8259e9098706de6
 
-Solution 2/2(final):
+Solution 2/2(thinking idea): https://github.com/irakasleibiltaria/bitstarter/tree/c708668040129ec0350c98468df13cbf2675e33c
