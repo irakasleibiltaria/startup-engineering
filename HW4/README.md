@@ -44,3 +44,6 @@ fonts:
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 ```
 
+Solution 2/1: https://github.com/irakasleibiltaria/bitstarter/tree/bd779407183d95450642908ca8259e9098706de6
+
+Solution 2/2(final):
