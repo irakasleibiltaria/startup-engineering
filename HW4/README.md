@@ -19,13 +19,31 @@ https://spark-public.s3.amazonaws.com/startup/images/part1-instructions.pdf
 
 https://docs.google.com/file/d/0B3GawKz4dDR7WXpLMi1OblhHeVU/edit?usp=sharing
 
+bootstrap. font-awesome. social-buttons:
 * http://twitter.github.io/bootstrap/scaffolding.html#responsive
 * http://blogs.endjin.com/2013/04/tips-forimplementing-responsive-designs-usingbootstrap
 * http://stackoverflow.com/a/12270322
 * http://noizwaves.github.io/bootstrap-social-buttons/
 ```$ wget https://raw.github.com/noizwaves/bootstrap-social-buttons/master/social-buttons.css```
-* http://fortawesome.github.io/Font-Awesome/
-* http://www.bootstrapcdn.com/#tab_fontawesome
-```$ wget netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css```
-* 
+* http://fortawesome.github.io/Font-Awesome/get-started/
+
+```
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+```
+* http://www.bootstrapcdn.com/
+
+fonts:
+* http://www.google.com/fonts
+* http://www.google.com/fonts/specimen/Ubuntu
+* http://www.google.com/fonts#QuickUsePlace:quickUse/Family:
+* http://www.google.com/fonts#QuickUsePlace:quickUse/Family:
+
+```
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+```
+
+
+
 
