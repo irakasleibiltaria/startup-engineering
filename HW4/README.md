@@ -24,8 +24,8 @@ https://docs.google.com/file/d/0B3GawKz4dDR7WXpLMi1OblhHeVU/edit?usp=sharing
 * http://stackoverflow.com/a/12270322
 * http://noizwaves.github.io/bootstrap-social-buttons/
 ```$ wget https://raw.github.com/noizwaves/bootstrap-social-buttons/master/social-buttons.css```
+* http://fortawesome.github.io/Font-Awesome/
 * http://www.bootstrapcdn.com/#tab_fontawesome
 ```$ wget netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css```
-
-
+* 
 
