@@ -32,3 +32,7 @@ $ git add index.html
 ```
 bitstarter repository:
 https://github.com/irakasleibiltaria/bitstarter
+
+Solution:
+
+https://github.com/irakasleibiltaria/bitstarter/tree/b4ba5139ace83e67ef6590d4f4c37fefea90d1d4
