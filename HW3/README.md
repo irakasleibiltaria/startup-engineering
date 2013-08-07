@@ -21,6 +21,8 @@ $ git add web.js
 $ git commit -m "update"
 # to github
 $ git push origin master
+# install heroku
+$ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 # to heroku
 $ heroku create #this must be done only once
 $ git push heroku master
