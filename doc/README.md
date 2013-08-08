@@ -18,6 +18,8 @@ Coursera:
 
 [Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
 
+[Mobile](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
+
 Drive:
 
 [lecture0-v3-logistics.pdf](https://docs.google.com/file/d/0B3GawKz4dDR7SXJVMmtmQW1zMTA/edit?usp=sharing)
@@ -37,3 +39,5 @@ Drive:
 [An introduction to HTML/CSS/JS](https://docs.google.com/file/d/0B3GawKz4dDR7ZV9NTFdXVmVYZE0/edit?usp=sharing)
 
 [Deployment, DNS, and Custom Domains](https://docs.google.com/file/d/0B3GawKz4dDR7Tl9tNVpZNHltQ2c/edit?usp=sharing)
+
+[Mobile](https://docs.google.com/file/d/0B3GawKz4dDR7Y2hHYnhLbkQ5M2c/edit?usp=sharing)

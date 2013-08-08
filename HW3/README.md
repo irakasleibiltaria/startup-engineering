@@ -21,6 +21,8 @@ $ git add web.js
 $ git commit -m "update"
 # to github
 $ git push origin master
+# install heroku
+$ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 # to heroku
 $ heroku create #this must be done only once
 $ git push heroku master
@@ -32,3 +34,7 @@ $ git add index.html
 ```
 bitstarter repository:
 https://github.com/irakasleibiltaria/bitstarter
+
+Solution:
+
+https://github.com/irakasleibiltaria/bitstarter/tree/b4ba5139ace83e67ef6590d4f4c37fefea90d1d4

@@ -91,4 +91,21 @@ Here are some useful links:
  * [Responsive Design](http://mashable.com/2012/12/11/responsive-web-design/) and the concept of [Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
  * [Responsive Design Examples](http://mediaqueri.es/)
 
+###Week 5: Social/Local/Mobile, Virality, and Growth. Intermediate and Frontend JS.
+
+Here's the curriculum for week 5. Links will go live as materials are uploaded.
+
+* HW5: Released July 21, 2013 at ~5pm PT; due July 31, 2013 at 11:59pm PT
+* Lecture 9: Why do VCs love mobile, local, and social? And what they love next? (To be announced [TBA]: video, pdf)
+* Lecture 10: Intermediate and Frontend JS (TBA: video, pdf)
+
+Here are some useful links:
+
+* Mobile, Local, Social
+ * [Instagram vs. Hipstamatic](http://www.fastcompany.com/3002034/no-filter-how-instagram-caused-hipstamatic-lose-focus-and-gamble-social): similar apps, one with social features, and one without.
+ * [John Doerr coining SoLoMo (Social, Location, Mobile)](http://mashable.com/2013/04/30/solomo/), and some specific [examples](http://www.britopian.com/2013/03/19/solomo-not-a-fan-of-buzzwords-but-this-is-a-good-story/) of the buzzword/concept in action
+* Intermediate and Frontend JS
+ * [A re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ * [Eloquent JS](http://eloquentjavascript.net/)
+ * [The Node Beginner Book](http://www.nodebeginner.org/)
 
