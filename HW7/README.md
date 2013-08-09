@@ -1,0 +1,1 @@
+HW7 Programming/Quiz: Interactive Intro to SSJS, ORMs, DBs:[1](https://class.coursera.org/startup-001/quiz/attempt?quiz_id=325), [2](https://docs.google.com/file/d/0B3GawKz4dDR7cnBkTFYzOVpTTWc/edit?usp=sharing)
