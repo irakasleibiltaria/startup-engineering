@@ -109,3 +109,24 @@ Here are some useful links:
  * [Eloquent JS](http://eloquentjavascript.net/)
  * [The Node Beginner Book](http://www.nodebeginner.org/)
 
+###Week 6: Regulation, Disruption, and the Future. CLI, SQL, DBs, and ORMs.
+
+Here's the curriculum for week 6. Links will go live as materials are uploaded.
+
+* HW6: Released July 31, 2013; due Aug 7, 2013 at 11:59pm PT
+* Lecture 11: Regulation, Disruption, and the Technologies of 2013. (video, pdf)
+* Lecture 12: Backend JS: CLI, DB, SQL, ORM (TBA: video, pdf)
+
+Here are some useful links:
+
+* Regulation and Disruption
+ * [Aviation: Drone startups vs. FAA](http://www.wired.com/dangerroom/2013/02/drone-regulation/)
+ * [Transportation: Uber/Lyft/Sidecar vs. Taxi regulators](http://www.forbes.com/sites/larrydownes/2013/02/06/lessons-from-uber-why-innovation-and-regulation-dont-mix/)
+ * [Real estate: Airbnb vs. Hotel regulators](http://www.guardian.co.uk/technology/appsblog/2013/jun/05/airbnb-leweb-london-joe-gebbia)
+ * [Transportation: NHTSB vs. Self-driving cars](http://www.forbes.com/sites/jimgorzelany/2013/06/03/feds-ask-states-to-ban-self-driving-cars/)
+ * [Finance: SEC vs. Crowdfunding](http://www.crowdvalley.com/2013/05/06/the-secs-recent-no-action-letters)
+* Command Line Interfaces, SQL, and ORMS.
+ * [CLIs in node](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/) ([1](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/), [2](http://blog.nodejitsu.com/six-nodejs-cli-apps))
+ * [Zed Shaw's Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/introduction.html)
+ * [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)
+ * [Advanced SQL (e.g., machine learning in the database)](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)
