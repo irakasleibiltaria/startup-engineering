@@ -22,6 +22,6 @@ lecture8-Mobile: [1](https://d396qusza40orc.cloudfront.net/startup%2Flecture_sli
 
 lecture9-Social/Local/Mobile, Virality, and Growth: [1](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture9-social-local-mobile-growth-virality.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7LTVJUTBwaldadU0/edit?usp=sharing)
 
-lecture10:
+lecture10-Intermediate Javascript: [1](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7bFBkc0ZRN3BJalE/edit?usp=sharing)
 
 lecture11-Regulation, Disruption, and the Technologies of 2013: [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7Z0c0OEF5S29FQ2s/edit?usp=sharing)
