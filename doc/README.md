@@ -1,4 +1,6 @@
-###Coursera(1) & Drive(2):
+###lectures
+
+*Coursera(1) & Drive(2):*
 
 lecture0-v3-logistics: [1](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7SXJVMmtmQW1zMTA/edit?usp=sharing)
 
@@ -25,3 +27,26 @@ lecture9-Social/Local/Mobile, Virality, and Growth: [1](https://d396qusza40orc.c
 lecture10-Intermediate Javascript: [1](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7bFBkc0ZRN3BJalE/edit?usp=sharing)
 
 lecture11-Regulation, Disruption, and the Technologies of 2013: [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7Z0c0OEF5S29FQ2s/edit?usp=sharing)
+
+lecture12-Node.js: Asynchrony, Flow Control, and Debugging: [1](https://d396qusza40orc.cloudfront.net/startup/lecture_slides/lecture12-node-latency-async-debugging.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7cXYzVjhzb2xvMjA/edit?usp=sharing)
+
+###Guest lectures:
+
+Here are all the guest lectures to date. New links will be added as the course progresses.
+
+[**Airbnb**](http://airbnb.com/)
+
+Speakers: [Alex Blackstock](http://alexblackstock.com/) and [Spike Brehm](https://github.com/spikebrehm), Materials: Video, PDF [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/airbnb-slides.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7NDJ5X3pja21STTg/edit?usp=sharing)
+
+[**Judicata**](http://judicata.com/)
+
+Speaker: [Adam Hahn](http://www.linkedin.com/pub/adam-hahn/46/40/86), Materials: Video, PDF [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/judicata-slides.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7TWROQlkxLXg2ZTA/edit?usp=sharing)
+
+[**Square**](http://squareup.com/)
+
+Speaker: [Ian Wong](https://github.com/ihat), Materials: Video, PDF [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/square-slides.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7MkNsZ3hLRHFhM28/edit?usp=sharing)
+
+[**Twilio**](http://twilio.com/)
+
+Speaker: [Joel Franusic](http://www.twilio.com/doers/Joel-Franusic), Materials: Video, PDF [1](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/twilio-slides.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7X1BVLTBQeldGVm8/edit?usp=sharing)
+
