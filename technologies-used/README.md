@@ -1,5 +1,8 @@
 ###An overview of technologies used in the course
 
+lecture1-v2-introduction: [1](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf), [2](https://docs.google.com/file/d/0B3GawKz4dDR7Q09fRVh4R0tuYmc/edit?usp=sharing)
+
+
 Type | Name | Notes | Alternatives
 --- | --- | --- | ---
 OS | [Ubuntu Linux](http://www.ubuntu.com/) | Most popular Linux distro. | OS X, Windows, BSD
